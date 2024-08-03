@@ -4,11 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pythonversioningexperiments"
-version = "v0.4.0"
+version = "1_alpha0"
 authors = [
     { name = "Gabriel Giurgica"},
 ]
-description = "test"
+description = "A package used to test the versioning and ordering of Python packages."
+readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
     "License :: OSI Approved :: MIT License",
