@@ -16,3 +16,4 @@ created. It is different from how the packages will be ordered in the
 | v0.4.0            | 0.4.0             | [0f55d7e](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0f55d7e9590cfb7d14b2780d68995a9952963ca3) | The letter "v" is removed during version normalization. |
 | 1_alpha0           | 1a0              | [b1af02a](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/b1af02ad70a3a52e2f045c9bc5d45c183695995f) |  |
 | 1-a1               | 1a1              | [e1af9ea](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/e1af9ea033c803301210503a25d67e84299e1242) |  |
+| 1.b                | 1b0              | [c6be52e](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/c6be52ed752c3dd9f9baca561cd2d353f8135f1e) |  |
