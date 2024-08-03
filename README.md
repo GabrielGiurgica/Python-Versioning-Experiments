@@ -22,3 +22,4 @@ created. It is different from how the packages will be ordered in the
 | 1-pre1             | 1rc1             | [f8a12f6](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/f8a12f6e825a4e52c0f407d9f6e2460142a8fe90) |  |
 | 1-pre1             | 1rc1             | [f8a12f6](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/f8a12f6e825a4e52c0f407d9f6e2460142a8fe90) |  |
 | 1b2                | 1b2              | [fa59417](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/fa594177289f3a75856778f1d480e7fbe2b012ad) |  |
+| 1b3                | 1b3              | [15696a7](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/15696a799573fda618073a51215738c4cb4351ed) |  |
