@@ -30,3 +30,4 @@ created. It is different from how the packages will be ordered in the
 | 1.0.0.post0         | 1.0.0.post0      | [2fc8160](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/2fc8160b9c4e58b9da8895688918e433ae51b6a8) |  |
 | 1.0.0rev_1          | 1.0.0.post1      | [0b892cb](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0b892cb20446783e534dd48f992cf3c3a9575306) |  |
 | 1.0.0-R-2           | 1.0.0.post2      | [30657f3](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/30657f3f0b563c40ae5448d7faf447373db32c54) |  |
+| 1.0.0-3             | 1.0.0.post3      | [8e99bdb](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/8e99bdb1ecdce8afcd0574210b63656896c864b9) |  |
