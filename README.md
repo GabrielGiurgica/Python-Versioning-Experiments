@@ -28,3 +28,4 @@ created. It is different from how the packages will be ordered in the
 | 1rc3                | 1rc3             | [fabe2fb](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/fabe2fbba00d9655e3df220b30b05b7b153147d8) |  |
 | 1.0.0               | 1.0.0            | [3fa4ef1](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/3fa4ef17ed93b93d57d2e7f814c794bf7d4646c6) |  |
 | 1.0.0.post0         | 1.0.0.post0      | [2fc8160](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/2fc8160b9c4e58b9da8895688918e433ae51b6a8) |  |
+| 1.0.0.post1         | 1.0.0.post1      | [0b892cb](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0b892cb20446783e534dd48f992cf3c3a9575306) |  |
