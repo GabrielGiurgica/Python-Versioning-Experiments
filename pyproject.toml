@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pythonversioningexperiments"
-version = "1-a1"
+version = "1.b"
 authors = [
     { name = "Gabriel Giurgica"},
 ]

@@ -14,4 +14,5 @@ created. It is different from how the packages will be ordered in the
 | 0.2               | 0.2               | [6b79a04](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/6b79a044d47a225a51207d830e1739d19f908514) |                         |
 | 00.03.000.00000.0 | 0.3.0.0.0         | [ca32933](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/ca329332c241113d413d2fbde603c1a488465359) | Extra zeros in numeric sub-segments are removed during version normalization. |
 | v0.4.0            | 0.4.0             | [0f55d7e](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0f55d7e9590cfb7d14b2780d68995a9952963ca3) | The letter "v" is removed during version normalization. |
-| 1_alpha0           | 1a0              | [0f55d7e](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0f55d7e9590cfb7d14b2780d68995a9952963ca3) | The letter "v" is removed during version normalization. |
+| 1_alpha0           | 1a0              | [b1af02a](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/b1af02ad70a3a52e2f045c9bc5d45c183695995f) |  |
+| 1-a1               | 1a1              | [e1af9ea](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/e1af9ea033c803301210503a25d67e84299e1242) |  |
