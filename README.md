@@ -17,3 +17,4 @@ created. It is different from how the packages will be ordered in the
 | 1_alpha0           | 1a0              | [b1af02a](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/b1af02ad70a3a52e2f045c9bc5d45c183695995f) |  |
 | 1-a1               | 1a1              | [e1af9ea](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/e1af9ea033c803301210503a25d67e84299e1242) |  |
 | 1.b                | 1b0              | [c6be52e](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/c6be52ed752c3dd9f9baca561cd2d353f8135f1e) |  |
+| 1beta1             | 1b1              | [283a93d](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/283a93dd92f7039d32aee89b340e3978cc8ac7a3) |  |
