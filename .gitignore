@@ -1,0 +1,7 @@
+# Python environment names
+venv
+.venv
+
+# Package related files
+dist
+pythonversioningexperiments.egg-info

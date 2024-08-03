@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=56", "wheel>=0.38.4"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pythonversioningexperiments"
+version = "0.1.0"
+authors = [
+    { name = "Gabriel Giurgica"},
+]
+description = "test"
+requires-python = ">=3.8"
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["pythonversioningexperiments"]
+
+
+[project.urls]
+Source = "https://github.com/GabrielGiurgica/python-versioning-experiments"
+Issues = "https://github.com/GabrielGiurgica/python-versioning-experiments/issues"
