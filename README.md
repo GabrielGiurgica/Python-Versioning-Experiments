@@ -19,3 +19,4 @@ created. It is different from how the packages will be ordered in the
 | 1.b                | 1b0              | [c6be52e](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/c6be52ed752c3dd9f9baca561cd2d353f8135f1e) |  |
 | 1beta1             | 1b1              | [283a93d](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/283a93dd92f7039d32aee89b340e3978cc8ac7a3) |  |
 | 1-preview          | 1rc0             | [03bf6cd](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/03bf6cd417c653da8ba2413f8caae2467a131067) |  |
+| 1-pre1             | 1rc1             | [f8a12f6](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/f8a12f6e825a4e52c0f407d9f6e2460142a8fe90) |  |
