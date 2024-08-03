@@ -27,3 +27,4 @@ created. It is different from how the packages will be ordered in the
 | 1.0_b.5             | 1.0b5           | [7b842e1](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/7b842e1e4b97c92965e1c95353c1e0b60745234b) | Posting a beta release after a candidate release does not make the beta release considered better than the candidate release already created, even if a 0 subsegment has been added at the end of the release segment. |
 | 1rc3                | 1rc3             | [fabe2fb](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/fabe2fbba00d9655e3df220b30b05b7b153147d8) |  |
 | 1.0.0               | 1.0.0            | [3fa4ef1](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/3fa4ef17ed93b93d57d2e7f814c794bf7d4646c6) |  |
+| 1.0.0.post0         | 1.0.0.post0      | [2fc8160](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/2fc8160b9c4e58b9da8895688918e433ae51b6a8) |  |
