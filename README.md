@@ -48,3 +48,4 @@ created. It is different from how the packages will be ordered in the
 | 2.1.0+testlocal.001 | 2.1.0+testlocal.1  | [8477f89](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/8477f89462ff392e4eb3aa05f7c16ee0c991592f) | Publishing local versions is not allowed in TestPyPI. |
 | 2.1.0+testlocal.002.ab0013 | 2.1.0+testlocal.2.ab0013  | [d2712d2](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/d2712d2392c53ca0d1c8c93daf643522af279672) | Publishing local versions is not allowed in TestPyPI. |
 | 2024.8.3            | 2024.8.3           | [ba0013f](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/ba0013f7901464811b1cfc49ba77948196cdb033) |  |
+| 2024.8.4            | 2024.8.4           | [86b9c70](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/86b9c709bc51e5c8655f464616b4d6cbe15bbbab) |  |
