@@ -35,4 +35,5 @@ created. It is different from how the packages will be ordered in the
 | 1.0.1.b--01         | 1.0.1b0.post1      | [8381610](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/83816109b579efa896363fd96fb620c91bc3b894) | The first "-" is assigned pre-release segment, while the second one marks a post-release. |
 | 1.0.1.rc-0000_rEv-00001 | 1.0.1rc0.post1 | [cbd2839](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/cbd2839e839bfdb2857b49c7bae6e7d23027ce5b) | Extra zeros are also removed from the numeric sub-segments of the pre-release and post-release segments during version normalization. |
 | 2.0.0               | 2.0.0              | [2702baf](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/2702baf8252081235b1026cd698b4f231d12ca4b) |  |
-| 2.0.1dev-           | 2.0.1              | [d900f68](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/d900f6820a28a1ec59d9d9fbab835e287abec23f) |  |
+| 2.0.1dev-           | 2.0.1.dev0         | [d900f68](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/d900f6820a28a1ec59d9d9fbab835e287abec23f) |  |
+| 2.0.1-dev_1         | 2.0.1.dev1         | [05ea38f](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/05ea38f4ff49fa9b59df4bca36f7d0e39eaaf38d) |  |
