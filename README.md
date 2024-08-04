@@ -43,3 +43,4 @@ created. It is different from how the packages will be ordered in the
 | 2.0.1rc0.dev0       | 2.0.1rc0.dev0      | [099f59f](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/099f59f153084923a3640fd2c6f62d33153ecd9f) | The development release segment has a lower priority than pre-release in the release ordering process. |
 | 2.0.1rc0.post0.dev0 | 2.0.1rc0.post0.dev0 | [f9f2a38](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/f9f2a3893d7647380e45e66fc4404992acf12f16) | The development release segment has a lower priority than pre-release in the release ordering process. |
 | 2.0.1rc0.post0      | 2.0.1rc0.post0     | [0b93da1](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0b93da15a0149b3172e26c2c6362a6f814217b5b) |  |
+| 2.0.1rc0.post0.dev1 | 2.0.1rc0.post0.dev1 | [a305a38](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/a305a38059d0cd3b42c04d23cf01bb7a72cdbbce) |  |
