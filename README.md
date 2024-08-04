@@ -37,4 +37,5 @@ created. It is different from how the packages will be ordered in the
 | 2.0.0               | 2.0.0              | [2702baf](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/2702baf8252081235b1026cd698b4f231d12ca4b) |  |
 | 2.0.1dev-           | 2.0.1.dev0         | [d900f68](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/d900f6820a28a1ec59d9d9fbab835e287abec23f) |  |
 | 2.0.1-dev_1         | 2.0.1.dev1         | [05ea38f](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/05ea38f4ff49fa9b59df4bca36f7d0e39eaaf38d) |  |
-| 2.0.1.a--dev-       | 2.0.1a0.dev0       | [05ea38f](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/05ea38f4ff49fa9b59df4bca36f7d0e39eaaf38d) |  |
+| 2.0.1.a--dev-       | 2.0.1a0.dev0       | [3c2fe66](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/3c2fe66ace5668242d5c3d2c7d5de2b5eef2a8e5) |  |
+| 2.0.1dev2           | 2.0.1.dev2         | [c16c1d3](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/c16c1d3ba7e0aeae42f586a0a1e8dcc7cd819ad1) |  |
