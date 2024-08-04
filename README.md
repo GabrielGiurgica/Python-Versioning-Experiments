@@ -45,4 +45,5 @@ created. It is different from how the packages will be ordered in the
 | 2.0.1rc0.post0      | 2.0.1rc0.post0     | [0b93da1](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0b93da15a0149b3172e26c2c6362a6f814217b5b) |  |
 | 2.0.1rc0.post0.dev1 | 2.0.1rc0.post0.dev1 | [a305a38](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/a305a38059d0cd3b42c04d23cf01bb7a72cdbbce) | Development release of a post release is considered to be a smaller version than the post release version. |
 | 2.1.0               | 2.1.0              | [4d49e60](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/4d49e60be7cdad481937976004a9f35339c1b15a) |  |
-| 2.1.0+testlocal.001 | 2.1.0+testlocal.1  | [8477f89](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/8477f89462ff392e4eb3aa05f7c16ee0c991592f) |  |
+| 2.1.0+testlocal.001 | 2.1.0+testlocal.1  | [8477f89](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/8477f89462ff392e4eb3aa05f7c16ee0c991592f) | Publishing local versions is not allowed in TestPyPI. |
+| 2.1.0+testlocal.002.ab0013 | 2.1.0+testlocal.2.ab0013  | [d2712d2](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/d2712d2392c53ca0d1c8c93daf643522af279672) | Publishing local versions is not allowed in TestPyPI. |
