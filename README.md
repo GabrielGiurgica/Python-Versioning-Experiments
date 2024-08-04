@@ -50,3 +50,4 @@ created. It is different from how the packages will be ordered in the
 | 2024.8.3            | 2024.8.3           | [ba0013f](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/ba0013f7901464811b1cfc49ba77948196cdb033) |  |
 | 2024.8.4            | 2024.8.4           | [86b9c70](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/86b9c709bc51e5c8655f464616b4d6cbe15bbbab) |  |
 | 1!4.0.0.dev0        | 1!4.0.0.dev0       | [530a413](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/530a413db1dc0f8f06fd2d02a2d56fab047b4afc) |  |
+| 1!4.0.0-rc        | 1!4.0.0rc0       | [0653097](https://github.com/GabrielGiurgica/python-versioning-experiments/commit/0653097cc7ada788b2ea2358514b02d38d60c286) |  |
